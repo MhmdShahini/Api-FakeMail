@@ -41,6 +41,6 @@ PHP
 ---
 
 ## 🤖 نویسنده
-[@MhmdShahini](https://github.com/MhmdShahini)
+[@Mhmd_Shahini](https://github.com/Mhmd_Shahini)
 
 ---
